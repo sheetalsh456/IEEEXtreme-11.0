@@ -1,3 +1,5 @@
+// solution to the problem Shuffle in IEEEXtreme-11.0 
+
 #include <iostream>
 #include <string.h>
 using namespace std;
