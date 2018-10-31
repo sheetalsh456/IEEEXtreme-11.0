@@ -1,3 +1,5 @@
+// Added solution of problem RecXor of IEEEXtreme-11.0
+
 #include<bits/stdc++.h>
 #include <iostream>
 
